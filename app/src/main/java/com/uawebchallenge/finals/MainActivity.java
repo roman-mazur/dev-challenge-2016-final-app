@@ -14,7 +14,7 @@ public class MainActivity extends Activity {
     ImageView imageView = (ImageView) findViewById(R.id.image);
 
     // TODO: Draw the image.
-    // What image? Start with https://dev-challenge-backend.appspot.com/start
+    // What image? Start with https://i-will-not-tell-you-but-git-can-help
     imageView.setImageResource(R.mipmap.ic_launcher);
   }
 }
